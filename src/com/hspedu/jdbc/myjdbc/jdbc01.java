@@ -20,6 +20,7 @@ public class jdbc01 {
         Statement statement = connect.createStatement();
 //        Connection connect = driver.connect(url, properties);
         String spl = "insert into testcast values('happen',18)";
+        String spl1 = "insert into testcast values('happen5',28)";
         int i = statement.executeUpdate(spl);
         System.out.println(i);
         statement.close();
