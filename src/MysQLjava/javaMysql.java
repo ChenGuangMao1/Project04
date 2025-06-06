@@ -11,6 +11,7 @@ public class javaMysql {
     public static void main(String[] args) throws ClassNotFoundException, SQLException, IOException {
 //        String content1 = "hongmao";
         System.out.println("master");
+        System.out.println("hot-fix111");
         int name = 20;
         Properties properties = new Properties();
         properties.load(new FileInputStream("src\\mysql.properties"));
