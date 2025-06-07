@@ -16,6 +16,7 @@ public class javaMysql {
         System.out.println("好了");
         System.out.println("好了");
         System.out.println("谢谢");
+        System.out.println("no thank");
         System.out.println("hot-fix111");
         int name = 20;
         Properties properties = new Properties();
