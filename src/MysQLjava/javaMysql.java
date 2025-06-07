@@ -13,6 +13,7 @@ public class javaMysql {
         System.out.println("master");
         System.out.println("master222");
         System.out.println("master333");
+        System.out.println("好了");
         System.out.println("hot-fix111");
         int name = 20;
         Properties properties = new Properties();
